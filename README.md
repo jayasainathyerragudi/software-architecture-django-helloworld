@@ -16,7 +16,7 @@ pip install django
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/HelloWorldProject.git
+git clone https://github.com/jayasainathyerragudi/software-architecture-django-helloworld/HelloWorldProject.git
 cd HelloWorldProject
 ```
 ### Run the Development Server
